@@ -2,6 +2,9 @@ import { useState } from 'react';
 import './App.css';
 //featureブランチです
 
+
+
+// featureだろ
 function Square({value, onSquareClick}) {
   return (
     <button className="square" onClick={onSquareClick}>
