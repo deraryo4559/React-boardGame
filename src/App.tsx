@@ -2,6 +2,7 @@ import { useState } from 'react';
 import './App.css';
 
 //masterブランチです
+//git merge
 function Square({value, onSquareClick}) {
   return (
     <button className="square" onClick={onSquareClick}>
