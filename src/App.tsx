@@ -4,6 +4,7 @@ import './App.css';
 
 //masterブランチです
 //git merge
+// masterだろ！！
 function Square({value, onSquareClick}) {
   return (
     <button className="square" onClick={onSquareClick}>
